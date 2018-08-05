@@ -1,6 +1,6 @@
 {
-  "name": "gitbook-plugin-word-count",
-  "version": "0.2.1",
+  "name": "gitbook-plugin-word-count-goal",
+  "version": "0.0.1",
   "description": "A gitbook plugin to report word count",
   "main": "index.js",
   "scripts": {
@@ -10,16 +10,16 @@
   "engines": {
     "gitbook": ">=2.5.0"
   },
-  "author": "Ryan Lewis <ryanharrisonlewis@gmail.com>",
+  "author": "Armand Fardeau <fardeauarmand@gmail.com>",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git://github.com/ryanmurakami/gitbook-plugin-word-count.git"
+    "url": "git://github.com/armandfardeau/gitbook-plugin-word-count-goal.git"
   },
   "bugs": {
-    "url": "https://github.com/ryanmurakami/gitbook-plugin-word-count/issues"
+    "url": "https://github.com/armandfardeau/gitbook-plugin-word-count-goal/issues"
   },
-  "homepage": "https://github.com/ryanmurakami/gitbook-plugin-word-count",
+  "homepage": "https://github.com/armandfardeau/gitbook-plugin-word-count-goal",
   "dependencies": {
     "colors": "^1.1.2",
     "lodash": "^3.10.1"
