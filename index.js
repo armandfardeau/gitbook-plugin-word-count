@@ -24,7 +24,7 @@ var wordCount = 0,
       },
 
       'finish': function () {
-        console.log('Completed counting with '.green + wordCount.toString().cyan + ' words.'.green);
+        console.log('Completed counting with '.green + wordCount.toString().cyan + ' words.'.green + ' / '.green + '30000'.cyan +  '=> '.green + (Math.floor(wordCount * 0,0033)).cyan + ' %'.green  );
       }
     }
   };
